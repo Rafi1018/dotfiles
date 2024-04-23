@@ -6,7 +6,7 @@ wal -i $1
 
 pywalfox update
 
-python ~/github/pywal_cava/wal_cava.py -c ~/.config/cava/config -i ~/.cache/wal/colors.json -G 8
+python ~/projects/pywal_cava/wal_cava.py -c ~/.config/cava/config -i ~/.cache/wal/colors.json -G 8
 
 oomox-cli ~/.cache/wal/colors-oomox -o oomoxTheme
 
