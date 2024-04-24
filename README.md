@@ -3,6 +3,4 @@ Hyprlock
 swayidle
 Hyprshot
 swaync
-otf-font-awesome
-oomox
-swaybg
+themix-theme-oomox-git
